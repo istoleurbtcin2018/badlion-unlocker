@@ -6,7 +6,7 @@ As simple as it sounds, I was tired of all the attention going to Lunar Client (
 
 ### Requirements
 
-- A 🧠
+- 🧠
 
 ---
 
@@ -17,10 +17,13 @@ As simple as it sounds, I was tired of all the attention going to Lunar Client (
 
 ---
 
-### Disclaimers
+### Disclaimers / FAQ
 
 - I am not responsible for any action taken on your account for the usage of this tool.
 - This was a quick project made as a joke.
+
+- There is no source code provided yet, I'm currently working on reversing the existing DLL to provide a source code for you to compile yourself if you feel the need to.
+- Updates soon.
 
 ---
 
