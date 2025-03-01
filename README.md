@@ -1,7 +1,7 @@
 # Badlion Cosmetic Unlocker
 As simple as it sounds, I was tired of all the attention going to Lunar Client (ex. LCQT), so I wrote a little script to unlock all cosmetics.
 
-<a href="https://discord.com/users/1345470765432176763>💬 Discord</a>
+<a href="https://discord.com/users/1345470765432176763">💬 Discord</a>
 <a href="https://github.com/istoleurbtcin2018/badlion-unlocker/issues">⚠️ Report Issues</a>
 
 ### Requirements
